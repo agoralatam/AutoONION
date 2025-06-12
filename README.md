@@ -7,9 +7,11 @@ AutoOnion es una herramienta automatizada desarrollada para facilitar la creaciÃ
 >Esta herramienta se ha creado con fines educativos y de pruebas en entornos controlados. El uso no autorizado no es responsabilidad del desarrollador
 
 ---
+## Captura de pantalla del script en la CLI
 ![Captura de pantalla](https://raw.githubusercontent.com/agoralatam/AutoONION/refs/heads/main/media/img2.png)
 ---
 
+## Captura de pantalla de la pagina de prueba
 ![Pagina de prueba](https://raw.githubusercontent.com/agoralatam/AutoONION/refs/heads/main/media/img4.png)
 ---
 
@@ -28,7 +30,7 @@ AutoOnion es una herramienta automatizada desarrollada para facilitar la creaciÃ
   ```
 5.  **Ejecutar script**:
   ```bash 
-   bash autoOnion
+   bash autoOnion.sh
   ```
 >[!NOTE]
 >No olvides ejecutar los archivos install.sh y autoOnion.sh como usuario root
