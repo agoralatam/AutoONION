@@ -16,16 +16,19 @@ AutoOnion es una herramienta automatizada desarrollada para facilitar la creaciÃ
 ## InstalaciÃ³n y uso
 1. **Clonar el repositorio**:
   ```bash
-    git clone https://github.com/agoralatam/wooded.git
+    git clone https://github.com/agoralatam/AutoONION.git
   ```
 3. **Entrar a el directorio**:
   ```bash 
-   cd wooded
+   cd AutoOnion
   ```
-4.  **Ejecutar script**:
+4.  **Instalar script**:
   ```bash 
-   python3 -u example.com
+   bash install.sh
   ```
-## Video
-https://github.com/user-attachments/assets/5b75be25-8769-41fb-9d37-89f8c59435de
-
+5.  **Ejecutar script**:
+  ```bash 
+   bash autoOnion
+  ```
+>[!NOTE]
+>No olvides ejecutar los archivos install.sh y autoOnion.sh como usuario root
