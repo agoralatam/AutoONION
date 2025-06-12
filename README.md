@@ -34,3 +34,8 @@ AutoOnion es una herramienta automatizada desarrollada para facilitar la creaci√
   ```
 >[!NOTE]
 >No olvides ejecutar los archivos install.sh y autoOnion.sh como usuario root
+
+---
+## Captura de pantalla del proceso de instalaci√≥n en la CLI
+![Captura de pantalla](https://raw.githubusercontent.com/agoralatam/AutoONION/refs/heads/main/media/img3.png)
+
