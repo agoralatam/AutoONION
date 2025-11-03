@@ -26,11 +26,11 @@ AutoOnion es una herramienta automatizada desarrollada para facilitar la creaciÃ
   ```
 4.  **Instalar script**:
   ```bash 
-   bash install.sh
+   sudo bash install.sh
   ```
 5.  **Ejecutar script**:
   ```bash 
-   bash autoOnion.sh
+   sudo bash autoOnion.sh
   ```
 >[!NOTE]
 >No olvides ejecutar los archivos install.sh y autoOnion.sh como usuario root
