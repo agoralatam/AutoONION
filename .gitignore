@@ -1,0 +1,7 @@
+__pycache__/
+env/
+venv/
+test.*
+.cache
+.python-version
+.vscode/
