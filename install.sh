@@ -12,7 +12,8 @@ CONFIG_FILE="autoOnion.conf"
 # ---------------| Instalando el servicio de Tor
 apt install tor -y > /dev/null 2>&1
 echo -e "$PURPLE[$WHITE+$PURPLE]$GREEN Installing Tor service$WHITE..."
-
+sleep(2)
+echo -e "$PURPLE[$WHITE+$PURPLE]$GREEN Tor service is installed"
 
 # ---------------| Preguntar al usuario que servidor usar (Apache - Nginx)
 echo -e "Select the server to use"
